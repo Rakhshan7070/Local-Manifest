@@ -1,6 +1,4 @@
 # Local-Manifest-Dubai
-
-# Lineage buildscripts
 ========================
 
 Assuming already synced Sources:
