@@ -7,7 +7,7 @@
   <project name="LineageOS/android_kernel_motorola_sm7325" path="kernel/motorola/sm7325" remote="github" revision="lineage-21"/>
 
   <!-- vendor -->
-  <project name="  Rakhshan7070/vendor_motorola_dubai" path="vendor/motorola/dubai" remote="github" revision="fourteen"/>
+  <project name="Rakhshan7070/vendor_motorola_dubai" path="vendor/motorola/dubai" remote="github" revision="fourteen" />
   
    <!-- extras-->
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-21"/>
@@ -16,4 +16,3 @@
   <!-- common-->
    <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
 </manifest>
-
