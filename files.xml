@@ -2,17 +2,24 @@
 <manifest>
   <!-- device trees -->
   <project name="Rakhshan7070/android_device_motorola_dubai" path="device/motorola/dubai" remote="github" revision="14"/>
-  
+  <project name="Rakhshan7070/android_device_motorola_sm7325-common" path="device/motorola/sm7325-common" remote="github" revision="14"/>
   <!-- kernel -->
-  <project name="LineageOS/android_kernel_motorola_sm7325" path="kernel/motorola/sm7325" remote="github" revision="lineage-21"/>
+  <project name="Rakhshan7070/kernel_motorola_sm7325" path="kernel/motorola/sm7325" remote="github" revision="14"/>
 
   <!-- vendor -->
   <project name="Rakhshan7070/vendor_motorola_dubai" path="vendor/motorola/dubai" remote="github" revision="14" />
+  <project name="Rakhshan7070/vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="14"/>
   
    <!-- extras-->
-  <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-21"/>
+<project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-21"/>
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21"/>
   
   <!-- common-->
-   <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
+<project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
 </manifest>
+
+  <!-- Lineage-Keys-For -Signed-Builds-->
+<project name="Rakhshan7070/vendor_motorola_dubai" path="vendor/lineage-priv" remote="github" revision="lineage-21"/>
+</manifest>
+
+
