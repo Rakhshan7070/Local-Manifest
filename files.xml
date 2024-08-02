@@ -19,7 +19,7 @@
 </manifest>
 
   <!-- Lineage-Keys-For -Signed-Builds-->
-<project name="Rakhshan7070/vendor_motorola_dubai" path="vendor/lineage-priv" remote="github" revision="lineage-21"/>
+<project name="Rakhshan7070/Local-Manifest-Dubai/tree/fourteen/lineage-priv" path="vendor/lineage-priv" remote="github" revision="lineage-21"/>
 </manifest>
 
 
