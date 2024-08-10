@@ -11,11 +11,11 @@
   <project name="Rakhshan7070/vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="github" revision="14"/>
   
    <!-- extras-->
-<project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-21"/>
+  <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-21"/>
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21"/>
   
   <!-- common-->
-<project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
+  <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
 </manifest>
 
 
