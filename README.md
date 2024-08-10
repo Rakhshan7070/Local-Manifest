@@ -1,7 +1,7 @@
 # Local-Manifest-Dubai
 ========================
 
-Assuming already synced Sources:
+Assuming already synced Sources (A14):
 ----------
     # cd into your ROM's folder
     mkdir -p .repo/local_manifests
