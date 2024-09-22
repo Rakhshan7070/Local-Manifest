@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- device trees -->
+  <project name="Rakhshan7070/device_motorola_miami" path="device/motorola/miami" remote="github" revision="lineage-21"/>
+  <project name="Rakhshan7070/device_motorola_sm6375-common" path="device/motorola/sm6375-common" remote="github" revision="lineage-21"/>
+  <!-- kernel -->
+  <project name="Rakhshan7070/kernel_motorola_miami" path="kernel/motorola/miami" remote="github" revision="lineage-21"/>
+
+  <!-- vendor -->
+  <project name="Rakhshan7070/proprietary_vendor_motorola_miami" path="vendor/motorola/miami" remote="github" revision="lineage-21" />
+  <project name="Rakhshan7070/proprietary_vendor_motorola_sm6375-common" path="vendor/motorola/sm6375-common" remote="github" revision="lineage-21" />
+  
+   <!-- extras-->
+<project name="Rakhshan7070/android_external_bson" path="external/bson" remote="github" revision="lineage-21"/>
+<!project name="Rakhshan7070/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21"/>
+  
+  <!-- common-->
+<project name="Rakhshan7070/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
+</manifest>
+
+
