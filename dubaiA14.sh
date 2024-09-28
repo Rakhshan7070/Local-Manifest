@@ -10,6 +10,6 @@ git clone https://github.com/Rakhshan7070/proprietary_vendor_motorola_sm7325-com
 
 git clone https://github.com/Rakhshan7070/android_external_bson external/bson
 
-git clone https://gitlab.com/Rakhshan7070/android_system_qcom system/qcom
+git clone https://github.com/Rakhshan7070/android_system_qcom system/qcom
 
 git clone https://github.com/Rakhshan7070/android_hardware_motorola hardware/motorola
