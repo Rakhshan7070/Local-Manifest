@@ -14,7 +14,7 @@ Assuming already synced Sources (A14):
 ```
 --- To Build without KernelSU :
 ```
-    git clone https://github.com/Rakhshan7070/android_kernel_motorola_sm7325.git kernel/motorola/sm7325/
+    git clone https://github.com/Rakhshan7070/android_kernel_motorola_sm7325.git -b lineage-21 kernel/motorola/sm7325/
 ```
 
 # Local-Manifest-Miami (Moto Edge 30 Neo)
