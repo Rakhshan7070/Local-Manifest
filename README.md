@@ -8,7 +8,7 @@ Assuming already synced Sources (A15):
 ```
 --- To Build with KernelSU :
 ```
-    git clone https://github.com/Rakhshan7070/android_kernel_motorola_sm7325.git -b lineage-22-U14-KSU kernel/motorola/sm7325/
+    git clone https://github.com/Rakhshan7070/android_kernel_motorola_sm7325.git -b lineage-22-T13-KSU kernel/motorola/sm7325/
     
     git clone https://github.com/tiann/KernelSU.git -b v0.9.5 kernel/motorola/sm7325/KernelSU/
 ```
