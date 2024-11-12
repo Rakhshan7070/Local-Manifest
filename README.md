@@ -20,10 +20,10 @@ Assuming already synced Sources (A15):
 # Local-Manifest-Miami (Moto Edge 30 Neo)
 =========================================
 
-Assuming already synced Sources (A14):
+Assuming already synced Sources (A15):
  - cd into your ROM's folder
 ```
-curl https://raw.githubusercontent.com/Rakhshan7070/Local-Manifest/lineage-21/miamiA14.sh | bash
+curl https://raw.githubusercontent.com/Rakhshan7070/Local-Manifest/lineage-22/miamiA15.sh | bash
 ```
 
 
