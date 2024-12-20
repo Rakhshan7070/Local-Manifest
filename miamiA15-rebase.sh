@@ -10,9 +10,5 @@ git clone https://github.com/Rakhshan7070/proprietary_vendor_motorola_sm6375-com
 
 git clone https://github.com/Rakhshan7070/android_kernel_motorola_sm6375.git -b rebase/lineage-22 kernel/motorola/sm6375
 
-git clone https://github.com/Rakhshan7070/android_external_bson.git -b lineage-22 external/bson
-
-git clone https://github.com/Rakhshan7070/android_system_qcom.git -b lineage-22 system/qcom
-
 git clone https://github.com/Rakhshan7070/android_hardware_motorola.git -b lineage-22 hardware/motorola
 
