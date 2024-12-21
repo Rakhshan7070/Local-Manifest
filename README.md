@@ -17,13 +17,3 @@ Assuming already synced Sources (A14):
     git clone https://github.com/Rakhshan7070/android_kernel_motorola_sm7325.git -b lineage-21 kernel/motorola/sm7325/
 ```
 
-# Local-Manifest-Miami (Moto Edge 30 Neo)
-=========================================
-
-Assuming already synced Sources (A14):
- - cd into your ROM's folder
-```
-curl https://raw.githubusercontent.com/Rakhshan7070/Local-Manifest/lineage-21/miamiA14.sh | bash
-```
-
-
